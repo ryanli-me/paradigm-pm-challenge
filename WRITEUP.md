@@ -1,4 +1,4 @@
-# Embracing the Bitter Lesson: How 1,039 AI-Generated Strategies Won a Quant Hackathon
+# Embracing the Bitter Lesson: How 1,039 AI-Generated Strategies Won Paradigm Autoresearch Hackathon
 
 ## Disclaimer
 
